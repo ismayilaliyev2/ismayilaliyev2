@@ -8,7 +8,7 @@ I started with Python programming language to my coding journey. Then i started 
 
 * 🌍  I'm based in Baku
 * ✉️  You can contact me at [aliyev372@gmail.com](mailto:aliyev372@gmail.com)
-* 🧠  I'm learning SQL-MySQL for Data Analytics and Business Intelligence
+* 🧠  I'm learning Python for Data Science and Machine Learning
 
 
 
